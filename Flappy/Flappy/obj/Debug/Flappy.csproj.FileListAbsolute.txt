@@ -1,0 +1,6 @@
+C:\Users\Dom\Desktop\C# Projekty\Fullstack Developer\CamelCase kebab-case\Flappy\Flappy\bin\Debug\Flappy.exe.config
+C:\Users\Dom\Desktop\C# Projekty\Fullstack Developer\CamelCase kebab-case\Flappy\Flappy\bin\Debug\Flappy.exe
+C:\Users\Dom\Desktop\C# Projekty\Fullstack Developer\CamelCase kebab-case\Flappy\Flappy\bin\Debug\Flappy.pdb
+C:\Users\Dom\Desktop\C# Projekty\Fullstack Developer\CamelCase kebab-case\Flappy\Flappy\obj\Debug\Flappy.csprojResolveAssemblyReference.cache
+C:\Users\Dom\Desktop\C# Projekty\Fullstack Developer\CamelCase kebab-case\Flappy\Flappy\obj\Debug\Flappy.exe
+C:\Users\Dom\Desktop\C# Projekty\Fullstack Developer\CamelCase kebab-case\Flappy\Flappy\obj\Debug\Flappy.pdb
